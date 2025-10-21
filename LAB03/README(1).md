@@ -1,8 +1,8 @@
 # INFR2310-Labs
 Labs for INFR2310
 STUDENT NAME: Jake Hyland
-● SUBMISSION DATE: 2025-10-06
-● LAB: LAB-02 :Waypoints, Steering, and State Machines... Oh My!
+● SUBMISSION DATE: 2025-10-20
+● LAB: LAB-03 :Simple Navigation
 ● ATTESTATION:
 ○ I, Jake Hyland understand that I am bound by Ontario Tech’s Academic Integrity Policy
 (https://usgc.ontariotechu.ca/policy/policy-library/policies/academic/academic-integrity-policy.php) which
